@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/danielcerongrajales/Data_tables/compare/v1.1.0...v1.2.0) (2021-04-10)
+
+
+### Features
+
+*  first initial version android project ([6eabf82](https://github.com/danielcerongrajales/Data_tables/commit/6eabf828f1c8edd22bd54a5e8e2a40786d19bf97))
+
 ## [1.1.0](https://github.com/danielcerongrajales/Data_tables/compare/v1.0.0...v1.1.0) (2021-03-24)
 
 
